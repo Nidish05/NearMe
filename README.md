@@ -36,7 +36,7 @@ map.html
             <font color="red"><b>Salem</b></font>
         </h1>
         <h3 align="center">
-            <font color="blue"><b>Jayaganapathi S (212224040133)</b></font>
+            <font color="blue"><b>Nidishkumar S</b></font>
         </h3>
         <center>
             <img src="Map.png" usemap="#MyCity" height="610" width="1450">
